@@ -9,6 +9,8 @@ h1{
 }
 
 .contenedor{
-    border: 1px solid black;
+    border: 2px solid black;
+    border-style:ridge;
     text-align: center;
+    font-weight: 700;
 }
